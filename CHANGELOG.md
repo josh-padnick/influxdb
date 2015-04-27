@@ -1,3 +1,8 @@
+## v0.9.0-rc29 [unrelased]
+
+### Features
+- [#2410](https://github.com/influxdb/influxdb/pull/2410): If needed brokers respond with data nodes for peer shard replication.
+
 ## v0.9.0-rc28 [04-27-2015]
 
 ### Features
